@@ -1,0 +1,11 @@
+﻿customerID;gender;SeniorCitizen;Partner;Dependents;tenure;PhoneService;MultipleLines;InternetService;OnlineSecurity;OnlineBackup;DeviceProtection;TechSupport;StreamingTV;StreamingMovies;Contract;PaperlessBilling;PaymentMethod;Charges.Monthly;Charges.Total
+0001-AAAAA;Female;1;Yes;No;5;Yes;No;Fiber optic;No;Yes;No;Yes;Yes;Yes;One year;No;Credit card (automatic);500;505
+0002-BBBBB;Male;0;No;No;6;Yes;Yes;DSL;No;No;No;No;Yes;Yes;Month-to-month;No;Mailed check;600;606
+0003-CCCCC;Female;1;No;Yes;7;Yes;No;Fiber optic;Yes;No;Yes;No;No;No;Month-to-month;No;Credit card (automatic);700;707
+0004-DDDDD;Male;0;Yes;No;8;No;Yes;Fiber optic;Yes;No;Yes;No;Yes;Yes;Two year;Yes;Electronic check;800;808
+0005-EEEEE;Female;1;No;No;9;Yes;No;DSL;No;No;No;Yes;No;No;Month-to-month;No;Mailed check;900;909
+0006-FFFFF;Male;0;No;Yes;10;Yes;No;DSL;No;Yes;Yes;No;No;No;One year;Yes;Credit card (automatic);1000;1010
+0007-GGGGG;Female;1;Yes;No;15;No;No;Fiber optic;Yes;Yes;Yes;No;Yes;Yes;Two year;Yes;Electronic check;1100;1115
+0008-HHHHH;Male;0;Yes;No;20;Yes;Yes;DSL;Yes;No;No;No;No;No;Two year;Yes;Credit card (automatic);1200;1220
+0009-IIIII;Male;0;Yes;No;8;No;Yes;Fiber optic;Yes;No;Yes;No;Yes;Yes;Two year;Yes;Electronic check;800;808
+0010-JJJJJ;Female;1;No;No;9;Yes;No;DSL;No;No;No;Yes;No;No;Month-to-month;No;Mailed check;900;909
